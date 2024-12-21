@@ -17,7 +17,6 @@ public class Demo1Application {
 
 
 		System.out.println("im pushing this branch to the remote ");
-
 	}
 
 }
